@@ -362,7 +362,7 @@ header a{
 }
 @media screen and (max-width: 678px) {
     .carousel{
-    height: 115vh;
+    height: 120vh;
 }
     .carousel .list .item .content{
         padding-right: 0;
